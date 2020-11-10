@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hello, World</h1>
-<%@ include file="../../../webapp/"%>
+<h1>JSP</h1>
+<%@ include file="/dist/web_static/index/index.html"%>
 </body>
 </html>

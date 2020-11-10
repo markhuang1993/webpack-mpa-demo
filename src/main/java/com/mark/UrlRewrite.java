@@ -1,0 +1,23 @@
+package com.mark;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+
+@WebServlet(urlPatterns={"/web_static/*"})
+public class UrlRewrite extends HttpServlet {
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+                        throws ServletException, IOException {
+        String rewrite = req.getRequestURI().replaceAll(".*/(web_static/.*)", "/dist/$1");
+        resp.sendRedirect(rewrite);
+    }
+
+    @Override
+    protected void doPost(final HttpServletRequest req, final HttpServletResponse resp) throws ServletException, IOException {
+        this.doGet(req, resp);
+    }
+}

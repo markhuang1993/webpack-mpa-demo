@@ -13,10 +13,11 @@ module.exports = {
         commons: './src/js/common/my_common.js'
     },
     output: {
-        path: path.join(__dirname, 'dist'),
+        // path: path.join(__dirname, 'dist'),
+        path: path.resolve(__dirname, '../../webapp/dist'),
 
         //基本都使用chunk的hash,如果考慮只更新css,就應該使用extract plugin + contenthash
-        filename: '[name]/[name]_[chunkhash:8].js'
+        filename: 'web_static/[name]/[name]_[chunkhash:8].js'
     },
     plugins: [
         new webpack.ProvidePlugin({
@@ -27,13 +28,12 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             template: './src/index.html',
-            publicPath: '[name]',
-            filename: 'index/index.html',
+            filename: 'web_static/index/index.html',
             chunks: ['index', 'commons', 'vendors']
         }),
         new HtmlWebpackPlugin({
             template: './src/step1.html',
-            filename: 'step1/step1.html',
+            filename: 'web_static/step1/step1.html',
             chunks: ['step1', 'commons', 'vendors']
         })
     ],
