@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5d71388-95e8-4e13-a387-674ba73ed498" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/zz.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="gretty" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webpack-mpa-demo" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\markh\IdeaProjects\webpack-mpa-demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3be7VFPwKS61YTs1YeHr4G6lz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/web/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="C:\Users\markh\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\193.5233.102\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\resources\web\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mark" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\resources\web\src\js\common" />
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\webapp\WEB-INF\page" />
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\wepapp" />
+      <recent name="C:\Users\markh\IdeaProjects\webpack-mpa-demo\src\main\wepapp\page" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build --refresh-dependencies" />
+      <command value="gradle appRun" />
+      <command value="gradle tomcatRun" />
+      <command value="mvn jetty:run" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.wp">
+    <configuration name="webpack-mpa-demo [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="webpack.config.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="webpack.config.js" working-dir="$PROJECT_DIR$/src/main/resources/web">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/src/main/resources/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="wp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/src/main/resources/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="wp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.webpack-mpa-demo [jetty:run]" />
+      <item itemvalue="Node.js.webpack.config.js" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.wp" />
+      <item itemvalue="Remote.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.wp" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d71388-95e8-4e13-a387-674ba73ed498" name="Default Changelist" comment="" />
+      <created>1604932314464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604932314464</updated>
+      <workItem from="1604932317837" duration="2719000" />
+      <workItem from="1604938073347" duration="21258000" />
+      <workItem from="1605032126916" duration="329000" />
+    </task>
+    <task id="LOCAL-00001" summary="save1">
+      <created>1605030687465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605030687465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="save2">
+      <created>1605030769478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605030769478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="save3 support jsp">
+      <created>1605032377839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605032377839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save1" />
+    <MESSAGE value="save2" />
+    <MESSAGE value="save3 support jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="save3 support jsp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="219" key="#Plugins" timestamp="1605015849640">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="626" y="219" key="#Plugins/0.0.2065.1122@0.0.2065.1122" timestamp="1605015849640" />
+    <state x="626" y="219" key="#Project_Structure" timestamp="1604944773836">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="626" y="219" key="#Project_Structure/0.0.2065.1122@0.0.2065.1122" timestamp="1604944773836" />
+    <state x="377" y="212" width="1438" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604944480366">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="377" y="212" width="1438" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1604944480366" />
+    <state x="839" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1605027358549">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="839" y="269" key="#com.intellij.ide.util.MemberChooser/0.0.2065.1122@0.0.2065.1122" timestamp="1605027358549" />
+    <state x="661" y="239" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1604943624751">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="661" y="239" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1604943624751" />
+    <state x="757" y="245" width="898" height="632" key="#webpack.config.js" timestamp="1605015867721">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="757" y="245" width="898" height="632" key="#webpack.config.js/0.0.2065.1122@0.0.2065.1122" timestamp="1605015867721" />
+    <state x="876" y="262" width="1093" height="598" key="#xdebugger.evaluate" timestamp="1605031934977">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="876" y="262" width="1093" height="598" key="#xdebugger.evaluate/0.0.2065.1122@0.0.2065.1122" timestamp="1605031934977" />
+    <state x="569" y="149" key="CommitChangelistDialog2" timestamp="1605032376449">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="569" y="149" key="CommitChangelistDialog2/0.0.2065.1122@0.0.2065.1122" timestamp="1605032376449" />
+    <state x="844" y="434" width="402" height="253" key="Github.ShareDialog" timestamp="1605032441707">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="844" y="434" width="402" height="253" key="Github.ShareDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1605032441707" />
+    <state width="2023" height="309" key="GridCell.Tab.0.bottom" timestamp="1605032343621">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="309" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1605032343621" />
+    <state width="2023" height="309" key="GridCell.Tab.0.center" timestamp="1605032343621">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="309" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1605032343621" />
+    <state width="2023" height="309" key="GridCell.Tab.0.left" timestamp="1605032343621">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="309" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1605032343621" />
+    <state width="2023" height="309" key="GridCell.Tab.0.right" timestamp="1605032343621">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="309" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1605032343621" />
+    <state width="2023" height="482" key="GridCell.Tab.1.bottom" timestamp="1605032076643">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.1.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1605032076643" />
+    <state width="2023" height="482" key="GridCell.Tab.1.center" timestamp="1605032076643">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.1.center/0.0.2065.1122@0.0.2065.1122" timestamp="1605032076643" />
+    <state width="2023" height="482" key="GridCell.Tab.1.left" timestamp="1605032076642">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.1.left/0.0.2065.1122@0.0.2065.1122" timestamp="1605032076642" />
+    <state width="2023" height="482" key="GridCell.Tab.1.right" timestamp="1605032076643">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.1.right/0.0.2065.1122@0.0.2065.1122" timestamp="1605032076643" />
+    <state width="2023" height="482" key="GridCell.Tab.2.bottom" timestamp="1605031601418">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.2.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601418" />
+    <state width="2023" height="482" key="GridCell.Tab.2.center" timestamp="1605031601418">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.2.center/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601418" />
+    <state width="2023" height="482" key="GridCell.Tab.2.left" timestamp="1605031601418">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.2.left/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601418" />
+    <state width="2023" height="482" key="GridCell.Tab.2.right" timestamp="1605031601418">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.2.right/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601418" />
+    <state width="2023" height="482" key="GridCell.Tab.3.bottom" timestamp="1605031601419">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.3.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601419" />
+    <state width="2023" height="482" key="GridCell.Tab.3.center" timestamp="1605031601419">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.3.center/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601419" />
+    <state width="2023" height="482" key="GridCell.Tab.3.left" timestamp="1605031601419">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.3.left/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601419" />
+    <state width="2023" height="482" key="GridCell.Tab.3.right" timestamp="1605031601419">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="482" key="GridCell.Tab.3.right/0.0.2065.1122@0.0.2065.1122" timestamp="1605031601419" />
+    <state x="514" y="135" width="1377" height="851" key="SettingsEditor" timestamp="1604969032248">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="514" y="135" width="1377" height="851" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1604969032248" />
+    <state x="626" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605032384969">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="626" y="294" key="Vcs.Push.Dialog.v2/0.0.2065.1122@0.0.2065.1122" timestamp="1605032384969" />
+    <state x="847" y="338" key="chooseDestDirectoryDialog" timestamp="1604933259064">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="847" y="338" key="chooseDestDirectoryDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1604933259064" />
+    <state x="727" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1605032127462">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="727" y="385" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1605032127462" />
+    <state x="722" y="300" width="622" height="522" key="find.popup" timestamp="1605032050361">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="722" y="300" width="622" height="522" key="find.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1605032050361" />
+    <state x="690" y="261" width="672" height="677" key="run.anything.popup" timestamp="1605029566003">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="690" y="261" width="672" height="677" key="run.anything.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1605029566003" />
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1605026059050">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="696" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2065.1122@0.0.2065.1122" timestamp="1605026059050" />
+  </component>
+</project>
