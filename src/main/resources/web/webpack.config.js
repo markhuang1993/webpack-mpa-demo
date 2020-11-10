@@ -6,8 +6,8 @@ module.exports = {
     devtool: 'eval-cheap-source-map',
     entry: {
         //在webpack5裡面必須指定'dependOn:common',不然splitChunks會出錯
-        index: {import: './src/js/index.js', dependOn: 'common'},
-        step1: {import: './src/js/step1.js', dependOn: 'common'},
+        index: {import: './src/js/index.js', dependOn: 'commons'},
+        step1: {import: './src/js/step1.js', dependOn: 'commons'},
 
         //自己專案裡面的common
         commons: './src/js/common/my_common.js'
