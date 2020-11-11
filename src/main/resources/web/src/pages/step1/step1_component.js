@@ -1,4 +1,4 @@
-import {View} from "./common/my_common";
+import {View} from "../common/my_common";
 import $ from 'jquery'
 
 export default class Step1Component extends View.Component {

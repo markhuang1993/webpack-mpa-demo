@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import {View} from './common/my_common';
+import {View} from '../common/my_common';
 
 export default class IndexComponent extends View.Component {
     create() {
