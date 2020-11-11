@@ -8,33 +8,28 @@ module.exports = {
         //在webpack5裡面必須指定'dependOn:common',不然splitChunks會出錯
         index: {import: './src/js/index.js', dependOn: 'commons'},
         step1: {import: './src/js/step1.js', dependOn: 'commons'},
-
         //自己專案裡面的common
         commons: './src/js/common/my_common.js'
     },
     output: {
-        // path: path.join(__dirname, 'dist'),
-        path: path.resolve(__dirname, '../../webapp/dist'),
+        path: path.join(__dirname, 'dist'),
+        // path: path.resolve(__dirname, '../../webapp/dist'),
 
         //基本都使用chunk的hash,如果考慮只更新css,就應該使用extract plugin + contenthash
         filename: 'web_static/[name]/[name]_[chunkhash:8].js'
     },
     plugins: [
-        new webpack.ProvidePlugin({
-            $: "jquery",
-            jQuery: "jquery",
-            "window.jQuery": "jquery'",
-            "window.$": "jquery"
-        }),
         new HtmlWebpackPlugin({
             template: './src/index.html',
             filename: 'web_static/index/index.html',
-            chunks: ['index', 'commons', 'vendors']
+            chunksSortMode: 'manual',
+            chunks:  ['index', 'commons']
         }),
         new HtmlWebpackPlugin({
             template: './src/step1.html',
             filename: 'web_static/step1/step1.html',
-            chunks: ['step1', 'commons', 'vendors']
+            chunksSortMode: 'manual',
+            chunks: ['commons', 'step1']
         })
     ],
     optimization: {
@@ -50,6 +45,7 @@ module.exports = {
                     test: /[\\/]node_modules[\\/](jquery|jquery-ui)[\\/]/,
                     name: 'vendors',
                     chunks: 'all',
+                    reuseExistingChunk:true
                 },
             }
         }
