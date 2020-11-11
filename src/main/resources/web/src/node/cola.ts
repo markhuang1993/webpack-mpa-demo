@@ -1,5 +1,6 @@
 import Util from "./util";
 import * as HtmlWebpackPlugin from "html-webpack-plugin";
+import {Entry} from "webpack";
 
 export default class ColaWebpackConfigProvider {
 
@@ -16,7 +17,9 @@ export default class ColaWebpackConfigProvider {
         this.pageNames = Util.getPagesInDir(pagesDir, ignorePages);
     }
 
-    defaultEntries() {
+    defaultEntries(): {
+        [name: string]: string | string[];
+    } {
         const entry = {};
         for (const pageName of this.pageNames) {
             entry[pageName] = `${this.relativePath}${pageName}/${pageName}.js`;
